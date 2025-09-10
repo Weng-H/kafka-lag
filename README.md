@@ -2,7 +2,7 @@
 Apollo相关配置于main.go中的appConfig配置
 
 Apollo配置项
-kafka.brokers = broker1:9092,broker2:9092
+kafka.brokers = broker1:9092
 kafka.sasl.user = your_kafka_user
 kafka.sasl.password = your_kafka_password
 kafka.sasl.mechanism = PLAIN
